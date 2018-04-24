@@ -1,2 +1,2 @@
-#Hello World
-##I'm hosted with GitHub Pages. Again
+Hello World
+I'm hosted with GitHub Pages. Again
